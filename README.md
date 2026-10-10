@@ -6,7 +6,7 @@ MATLAB App for fitting and visualizing the MMCHB rock-strength criterion, with D
 
 - `MMCHB_criterion.m` — original MATLAB App source.
 - `Dunham dolomite.xlsx` / `Dunham dolomite.txt` — 53 three-dimensional stress data points in MPa (`sigma1`, `sigma2`, `sigma3`).
-- `结果/` — fitting outputs, convergence curves, diagnostic tables, figures, logs, and the standalone reproducibility script.
+- `results/` — fitting outputs, convergence curves, diagnostic tables, figures, logs, and the standalone reproducibility script.
 
 ## Environment
 
@@ -30,11 +30,11 @@ The app can load the TXT or Excel data file, optimize the model parameters, disp
 The standalone script is:
 
 ```matlab
-addpath('结果');
+addpath('results');
 run_mmchb_results
 ```
 
-The script was tested with the Dunham Excel/TXT files, `UCS = 257 MPa`, `mi = 33.28`, fixed seed `20261010`, population size `30`, and `100` iterations. It writes result files into the `结果/` directory. Review the script's `projectDir` if the repository is located elsewhere.
+The script was tested with the Dunham Excel/TXT files, `UCS = 257 MPa`, `mi = 33.28`, fixed seed `20261010`, population size `30`, and `100` iterations. It writes result files into the `results/` directory. Review the script's `projectDir` if the repository is located elsewhere.
 
 The included main POA run reports:
 
