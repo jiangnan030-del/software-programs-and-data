@@ -1,0 +1,9 @@
+{
+  "sourcePath": "D:/Software programs and data/MMCHB_criterion.m",
+  "sourceSHA256": "31a59d343a68d359f4dbd150b70c03909068b241c5c61479a8f9e2dfd3e29096",
+  "runnerSHA256": "5cfc61621531ad4c900231630fde98fa700fca3fd1d503bbd29b0d528ffea57a",
+  "objectiveSHA256": "25b813f2864267961be51f1232f4bba8c02acec3e311a2999b302a4d0e5128d2",
+  "originalHelpersSHA256": "3c9d5991ce8e62dbf3c2e7d509cbf2e0c9a2824f2b4127cc4b74375d8797cdef",
+  "extraction": "Objective and all code from DBO_algorithm to EOF are copied unchanged after CRLF normalization.",
+  "displayChanges": "New full-curve logarithmic convergence plot and direct print PNG export."
+}

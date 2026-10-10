@@ -1,0 +1,20 @@
+# MATLAB temporary/session files
+*.asv
+*.autosave
+*.m~
+slprj/
+codegen/
+
+# System/editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+
+# Credentials and local configuration
+.env
+.env.*
+*.pem
+*.key
+credentials*

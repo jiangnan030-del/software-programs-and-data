@@ -1,0 +1,132 @@
+{
+  "settings": {
+    "seed": 2.026101E+7,
+    "rngType": "twister",
+    "population": 30,
+    "iterations": 100,
+    "mi": 33.28,
+    "ucs_MPa": 257,
+    "mainAlgorithm": "POA",
+    "algorithmOrder": [
+      "DBO",
+      "PSO",
+      "SSA",
+      "HHO",
+      "SABO",
+      "POA"
+    ],
+    "dataRows": 53,
+    "alphaFixed": true,
+    "matlabVersion": "9.14.0.2206163 (R2023a)"
+  },
+  "algorithms": [
+    {
+      "Algorithm": "DBO",
+      "S_percent": 4.1056147332313975,
+      "Alpha": 1,
+      "Gamma": 1,
+      "U": 1.2497668629983394,
+      "V": 1.8562685209190013,
+      "ObjectiveEvaluations": 3030,
+      "ElapsedSeconds": 0.1595706
+    },
+    {
+      "Algorithm": "PSO",
+      "S_percent": 4.1056147332320654,
+      "Alpha": 1,
+      "Gamma": 1,
+      "U": 1.2497667726977313,
+      "V": 1.8562681848039493,
+      "ObjectiveEvaluations": 3030,
+      "ElapsedSeconds": 0.1096352
+    },
+    {
+      "Algorithm": "SSA",
+      "S_percent": 15.3701539144893,
+      "Alpha": 1,
+      "Gamma": 1,
+      "U": 1.9892930565071221,
+      "V": 2.8626199096388616,
+      "ObjectiveEvaluations": 3030,
+      "ElapsedSeconds": 0.1019338
+    },
+    {
+      "Algorithm": "HHO",
+      "S_percent": 4.0276924522722783,
+      "Alpha": 1,
+      "Gamma": 0.9884822956162953,
+      "U": 1.0608772754456257,
+      "V": 1.6338055971215422,
+      "ObjectiveEvaluations": 4269,
+      "ElapsedSeconds": 0.1420238
+    },
+    {
+      "Algorithm": "SABO",
+      "S_percent": 4.8739419325245663,
+      "Alpha": 1,
+      "Gamma": 1,
+      "U": 1.4290683631048215,
+      "V": 2.6044845526789882,
+      "ObjectiveEvaluations": 3030,
+      "ElapsedSeconds": 0.1032404
+    },
+    {
+      "Algorithm": "POA",
+      "S_percent": 4.0270589881192009,
+      "Alpha": 1,
+      "Gamma": 0.9903714406103078,
+      "U": 1.077875475770729,
+      "V": 1.6590229470310487,
+      "ObjectiveEvaluations": 3030,
+      "ElapsedSeconds": 0.1000511
+    }
+  ],
+  "mainParameters": [
+    1,
+    0.9903714406103078,
+    1.077875475770729,
+    1.6590229470310487
+  ],
+  "mainScorePercent": 4.0270589881192009,
+  "sqrtJ2RMSE_MPa": 13.631203370727935,
+  "repeatabilityExact": true,
+  "sourceUnmodifiedDuringRun": true,
+  "plots": [
+    {
+      "file": "envelope_3d.png",
+      "objects": 10,
+      "yScale": "linear",
+      "width": 1800,
+      "height": 1350,
+      "bytes": 262180,
+      "envelopeCurves": []
+    },
+    {
+      "file": "deviatoric_plane.png",
+      "objects": 28,
+      "yScale": "linear",
+      "width": 1800,
+      "height": 1350,
+      "bytes": 111740,
+      "envelopeCurves": []
+    },
+    {
+      "file": "sigma1_sigma2_plane.png",
+      "objects": 18,
+      "yScale": "linear",
+      "width": 1800,
+      "height": 1350,
+      "bytes": 84256,
+      "envelopeCurves": 8
+    },
+    {
+      "file": "convergence_curves.png",
+      "objects": 6,
+      "yScale": "log",
+      "width": 1800,
+      "height": 1350,
+      "bytes": 70886,
+      "envelopeCurves": []
+    }
+  ]
+}

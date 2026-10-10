@@ -1,0 +1,12 @@
+DBO: S=4.105614733231% alpha=1 gamma=1 u=1.249766863 v=1.85626852092 evaluations=3030 elapsed=0.160s
+PSO: S=4.105614733232% alpha=1 gamma=1 u=1.2497667727 v=1.8562681848 evaluations=3030 elapsed=0.110s
+SSA: S=15.370153914489% alpha=1 gamma=1 u=1.98929305651 v=2.86261990964 evaluations=3030 elapsed=0.102s
+HHO: S=4.027692452272% alpha=1 gamma=0.988482295616 u=1.06087727545 v=1.63380559712 evaluations=4269 elapsed=0.142s
+SABO: S=4.873941932525% alpha=1 gamma=1 u=1.4290683631 v=2.60448455268 evaluations=3030 elapsed=0.103s
+POA: S=4.027058988119% alpha=1 gamma=0.99037144061 u=1.07787547577 v=1.65902294703 evaluations=3030 elapsed=0.100s
+REPEATABILITY: exact equality for all six scores, parameters and 100-point curves.
+PNG verified: envelope_3d.png 1800x1350, 262180 bytes
+PNG verified: deviatoric_plane.png 1800x1350, 111740 bytes
+PNG verified: sigma1_sigma2_plane.png 1800x1350, 84256 bytes
+PNG verified: convergence_curves.png 1800x1350, 70886 bytes
+RUN_COMPLETE POA S=4.027058988119%

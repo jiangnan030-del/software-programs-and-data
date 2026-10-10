@@ -1,0 +1,84 @@
+{
+  "projectResultsPath": "D:/Software programs and data/结果",
+  "sourceUnmodified": true,
+  "originalCodeExtractionVerified": true,
+  "projectCopiesHashVerified": true,
+  "zipEntriesHashVerified": true,
+  "files": [
+    {
+      "file": "envelope_3d.png",
+      "bytes": 262180,
+      "SHA256": "c81cb27cb43855757fd50d19f526bf5ca679e93f2b8bcce0c13ba179d51eda3c"
+    },
+    {
+      "file": "deviatoric_plane.png",
+      "bytes": 111740,
+      "SHA256": "5cc1f0efdb8ca2ad41d2f7cbc0717e60bf019f68d1f4ced09d82245eee1e352a"
+    },
+    {
+      "file": "sigma1_sigma2_plane.png",
+      "bytes": 84256,
+      "SHA256": "b11184efa4f19e63ff60692dbf67ab0bccbcefa629042827c5e1b85fdfdc2913"
+    },
+    {
+      "file": "convergence_curves.png",
+      "bytes": 70886,
+      "SHA256": "39997ae4356f82b41991998cfcd02965e29c00ceea0da0f03a8cca33dd1c27ab"
+    },
+    {
+      "file": "fit_parameters.csv",
+      "bytes": 176,
+      "SHA256": "6478499930c838d57c111748a9583be7c954f938759e52e9ae42c1257381c90e"
+    },
+    {
+      "file": "algorithm_results.csv",
+      "bytes": 552,
+      "SHA256": "a5b038f374f1cc36382c8446313035ff1a905741e9d450199f53e8baac84859e"
+    },
+    {
+      "file": "convergence_curves.csv",
+      "bytes": 10584,
+      "SHA256": "5cbd2f82fc9025304751bd7af479e492d7e7f68fca875cb45c64bc127d945cc4"
+    },
+    {
+      "file": "input_data.csv",
+      "bytes": 686,
+      "SHA256": "3891fb888d77a296d6310303e5268f368a212f811f903b9f4a101a18a4b0cc9e"
+    },
+    {
+      "file": "point_diagnostics.csv",
+      "bytes": 3869,
+      "SHA256": "f08092ac97f0ba07ec20e947c401e1495856b0c1b4a3e1170bf01e376c761464"
+    },
+    {
+      "file": "run_results.mat",
+      "bytes": 8324,
+      "SHA256": "74542991540dba443fbab62ed65348fbd5bb43fd5ab443e687bbc3012df9faa7"
+    },
+    {
+      "file": "run_summary.json",
+      "bytes": 2941,
+      "SHA256": "97724561eeec3a6cd4a284d528dca7dc1c22878e1c95a8c9a44f68fa151f590e"
+    },
+    {
+      "file": "matlab_run.log",
+      "bytes": 992,
+      "SHA256": "5ca5bb30bcaeb9655bee14e6a07793e417afb4b9329a082f9f477b4b9250ac9e"
+    },
+    {
+      "file": "run_mmchb_results.m",
+      "bytes": 39869,
+      "SHA256": "5cfc61621531ad4c900231630fde98fa700fca3fd1d503bbd29b0d528ffea57a"
+    },
+    {
+      "file": "source_manifest.json",
+      "bytes": 636,
+      "SHA256": "6674936bd711750a4a06f82a3a71c0b9ccb46824477ade6d16416187455f6b44"
+    },
+    {
+      "file": "运行说明.md",
+      "bytes": 6595,
+      "SHA256": "001e1e1669041d0961717e18630ba6f08b240e579cbcd0227a64d67c75c45bdf"
+    }
+  ]
+}
